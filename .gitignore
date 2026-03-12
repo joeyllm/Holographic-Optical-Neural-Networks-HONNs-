@@ -1,0 +1,59 @@
+# LaTeX build artifacts
+
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.run.xml
+
+# latexmk
+
+*.fdb_latexmk
+*.fls
+
+# SyncTeX
+
+*.synctex.gz
+
+# Output formats (remove *.pdf if you want PDFs tracked)
+
+*.dvi
+*.ps
+*.pdf
+
+# minted package
+
+_minted-*
+*.pyg
+
+# Temporary files
+
+*.tmp
+*.temp
+*.swp
+*~
+
+# Editor folders
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
